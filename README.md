@@ -1,0 +1,1 @@
+Pendant mes études au Cégep Gérald Godin, j'ai eu l'opportunité de travailler sur divers projets passionnants. Ces expériences éducatives m'ont permis de développer mes compétences et d'explorer des domaines qui ont renforcé ma compréhension dans l'informatique. N'hésitez pas à explorer ces projets pour en apprendre davantage sur mon parcours académique et professionnel.
