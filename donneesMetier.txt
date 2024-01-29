@@ -1,0 +1,9 @@
+V;Il répare les voitures.;garagiste
+V;Il coupe les cheveux.;coiffeur
+V;Il soigne les dents.;dentiste
+V;Elle soigne les gens.;infirmier
+H;Il soigne les animaux.;veterinaire
+H;Il distribue le courrier.;facteur
+H;Il répare les fuites d'eau.;plombier
+H;Elle vend des fleurs.;fleuriste
+H;Il fait du pain.;boulanger

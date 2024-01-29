@@ -1,0 +1,12 @@
+H;"Il a une trompe et deux défense en ivoire.";elephant
+V;"Elle se nourrit sourtout de cadavres d'animaux.";hyene
+V;"Elle a un long cou et manges les feuilles des arbres.";girafe
+V;"C'est une sorte de cheval à rayure.";zebre
+H;"C'est un animal féroce tacheté ou tout noir.";panthere
+H;"Sorte de gros boeuf avec de grandes cornes.";buffle
+V;"Il a une crinière et on dit que c'est le roi des animaux.";lion
+V;"C'est l'animal terrestre le plus rapide du monde.";guepard
+H;"Elle est fine et a de longues cornes. Elle court très vite.";gazelle
+H;"Il a une peau épaisse et une corne sur le nez.";rhinoceros
+H;"C'est un gros animal qui vit days les fleuves et mange de l'herbe.";hippopotame
+H;"Il vit dans les rivières et a beaucoup de dents pointues.";crocodile
